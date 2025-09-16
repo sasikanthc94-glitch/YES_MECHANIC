@@ -1,0 +1,1 @@
+The platform serves as a bridge between vehicle owners and professional mechanics, ensuring quality service, transparent pricing, and real-time tracking. Customers can choose services, schedule appointments, get quotes, and track the mechanic’s arrival through the app.
